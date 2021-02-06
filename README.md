@@ -1,6 +1,6 @@
 # 30DaysOfNLP
 
-<h2> Day 6 30DaysOfNLP </h2> – 
+<h2> Day 6 #30DaysOfNLP </h2> – 
 
 <p><b>Shallow transfer learning for NLP</b> - 
 The topic covered today is Shallow transfer learning for NLP. It’s all about using pre-trained embedding in a semi-supervised manner to transfer pre-trained knowledge to a problem.
